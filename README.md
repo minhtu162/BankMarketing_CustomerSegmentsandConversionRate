@@ -15,3 +15,5 @@ How can predictive modeling help estimate individual purchase probabilities and 
 - WOE/IV
 - Logistic Regression
 - Decision Tree 
+
+Project by MinhTu - June 2025
