@@ -8,7 +8,7 @@ Identify high-value customer groups, design tailored engagement strategies throu
 Which customer groups represent the high potential value in this campaign?  
 How can predictive modeling help estimate individual purchase probabilities and guide resource allocation more efficiently?
 
-## Key Steps:
+## Key Steps
 1. Data preprocessing
 2. Data analysis
 3. Modeling and evaluation
