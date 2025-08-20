@@ -5,8 +5,8 @@ Using machine learning to forecast which customers are most likely to convert du
 Identify high-value customer groups, design tailored engagement strategies through phone calls, and apply predictive scoring to maximize campaign effectiveness and conversion rates.
 
 ## Key Questions
-Which customer groups represent the high potential value in this campaign?  
-How can predictive modeling help estimate individual purchase probabilities and guide resource allocation more efficiently?
+Question 1: Which customer groups represent the high potential value in this campaign?  
+Question 2: How can predictive modeling help estimate individual purchase probabilities and guide resource allocation more efficiently?
 
 ## Results: 	
 - Successfully segmented 4,700+ customers (41% of 11K+ dataset) into 3 behavioral profiles.
