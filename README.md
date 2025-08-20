@@ -1,4 +1,4 @@
-# Bank-Marketing - Customer Conversion Prediction
+# Bank Marketing - Customer Conversion Prediction
 Using machine learning to forecast which customers are most likely to convert during a bank campaign.
 
 ## Project Purpose
