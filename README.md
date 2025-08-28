@@ -1,8 +1,8 @@
-# Bank Marketing - Customer Conversion Prediction
+# Bank Marketing - Customer Segmentation & Conversion Prediction
 Using machine learning to forecast which customers are most likely to convert during a bank campaign.
 
 ## Project Purpose
-Identify high-value customer groups, design tailored engagement strategies through phone calls, and apply predictive scoring to maximize campaign effectiveness and conversion rates.
+Identify high-value customer groups, and apply predictive scoring to maximize campaign effectiveness and conversion rates.
 
 ## Key Questions
 Question 1: Which customer groups represent the high potential value in this campaign?  
@@ -14,10 +14,10 @@ Question 2: How can predictive modeling help estimate individual purchase probab
 - Built scoring system that can segment customers into 4 risk categories, and prioritize top 11% prospects (500+ high-value customers) for optimized campaign resource allocation.
 
 ## Key Steps
-1. Data preprocessing
+1. Data cleaning
 2. Data analysis
 3. Modeling and evaluation
-4. Apply model to Test data
+4. Applying model to Test data
 
 ## Tools & Technologies
 - **Languages**: Python
